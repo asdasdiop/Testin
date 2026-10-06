@@ -1,0 +1,4 @@
+Testing notes
+
+Testing helps catch defects early.
+Run the available tests after making changes.
